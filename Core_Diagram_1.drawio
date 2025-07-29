@@ -138,6 +138,9 @@
             <mxPoint x="690" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R3ee3gWV6F4vy_GYT0ao-2" value="NATS - Core&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flow&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="375" y="400" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
