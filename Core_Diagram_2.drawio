@@ -121,6 +121,9 @@
         <mxCell id="_f9fxB6pPDyXWvwQutY5-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Data Digestion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221.5" y="139" width="96" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_f9fxB6pPDyXWvwQutY5-10" value="Inside Core&lt;div&gt;&amp;nbsp;NATS&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="429" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
