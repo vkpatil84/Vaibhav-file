@@ -345,11 +345,11 @@
         <mxCell id="o6Nv1x-3SJl4VrMrXPaV-132" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Verify&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="58" x="167" y="83.20999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="5se1aZXXxo0oKvKg9q31-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;optional&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;verify&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="73" x="879" y="118" as="geometry" />
+        <mxCell id="5se1aZXXxo0oKvKg9q31-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;optional&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(70, 73, 93), rgb(170, 173, 190));&quot;&gt;verify&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="91" x="879" y="124" as="geometry" />
         </mxCell>
         <mxCell id="zOmcAJGHIpB6fPjcVG6V-2" connectable="0" parent="1" style="group;labelBackgroundColor=none;fontColor=#46495D;" value="" vertex="1">
-          <mxGeometry height="40" width="135" x="900" y="194" as="geometry" />
+          <mxGeometry height="40" width="135" x="936" y="194" as="geometry" />
         </mxCell>
         <mxCell id="5se1aZXXxo0oKvKg9q31-6" parent="zOmcAJGHIpB6fPjcVG6V-2" style="whiteSpace=wrap;html=1;verticalAlign=top;sketch=0;pointerEvents=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="" vertex="1">
           <mxGeometry height="40" width="90" as="geometry" />
