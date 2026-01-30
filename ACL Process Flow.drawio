@@ -372,7 +372,7 @@
           <mxGeometry height="48.789" width="120" x="309" y="67.89999999999998" as="geometry" />
         </mxCell>
         <mxCell id="o6Nv1x-3SJl4VrMrXPaV-1" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 14px;&quot;&gt;Agreement Draft Formation&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="320" y="76.48999999999995" as="geometry" />
+          <mxGeometry height="30" width="100" x="319" y="77.48999999999995" as="geometry" />
         </mxCell>
         <mxCell id="o6Nv1x-3SJl4VrMrXPaV-199" edge="1" parent="jag08KQkEfNFIQB9siFQ-66" source="o6Nv1x-3SJl4VrMrXPaV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jag08KQkEfNFIQB9siFQ-17" value="">
           <mxGeometry relative="1" as="geometry">
