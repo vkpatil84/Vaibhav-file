@@ -127,7 +127,7 @@
           <mxGeometry height="19" width="59" x="-121" y="470" as="geometry" />
         </mxCell>
         <mxCell id="c0TAYqx6rFG1rORCkxrr-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;CLM Process Flow Diagram&lt;/font&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="30" width="490" x="226" y="-120" as="geometry" />
+          <mxGeometry height="30" width="490" x="226" y="-95" as="geometry" />
         </mxCell>
         <mxCell id="jag08KQkEfNFIQB9siFQ-66" parent="1" style="swimlane;startSize=0;dashed=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontSize=11;" value="" vertex="1">
           <mxGeometry height="840" width="800" x="70" y="220" as="geometry">
