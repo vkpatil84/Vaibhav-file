@@ -209,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jag08KQkEfNFIQB9siFQ-42" parent="jag08KQkEfNFIQB9siFQ-66" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;sketch=0;pointerEvents=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
-          <mxGeometry height="60" width="150" x="444" y="702.21" as="geometry" />
+          <mxGeometry height="60" width="160" x="439" y="702.21" as="geometry" />
         </mxCell>
         <mxCell id="jag08KQkEfNFIQB9siFQ-118" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;eSigning API&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="490" y="524.21" as="geometry" />
@@ -229,8 +229,8 @@
         <mxCell id="jag08KQkEfNFIQB9siFQ-67" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Legal Team&lt;/font&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="53.21" width="180" x="590" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="jag08KQkEfNFIQB9siFQ-105" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="&lt;h3&gt;&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;Final Contract ( Draft 5 )&lt;/b&gt;&lt;/font&gt;&lt;/h3&gt;" vertex="1">
-          <mxGeometry height="30" width="113" x="462" y="716.4200000000001" as="geometry" />
+        <mxCell id="jag08KQkEfNFIQB9siFQ-105" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="&lt;h3&gt;&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;Final Contract (Agreement V5 )&lt;/b&gt;&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="30" width="128" x="462" y="716.42" as="geometry" />
         </mxCell>
         <mxCell id="jag08KQkEfNFIQB9siFQ-116" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Stamping API&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="83" y="525.4200000000001" as="geometry" />
