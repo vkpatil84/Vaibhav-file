@@ -205,12 +205,6 @@
         <mxCell id="N0xAANtcV6chKZKtPLza-22" parent="jag08KQkEfNFIQB9siFQ-66" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="eSign n" vertex="1">
           <mxGeometry height="20" width="79" x="591" y="641.4200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="jag08KQkEfNFIQB9siFQ-46" parent="jag08KQkEfNFIQB9siFQ-66" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;verticalAlign=top;rounded=1;pointerEvents=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
-          <mxGeometry height="88.82" width="250" x="206" y="696.21" as="geometry" />
-        </mxCell>
-        <mxCell id="jag08KQkEfNFIQB9siFQ-122" parent="jag08KQkEfNFIQB9siFQ-66" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Save in DB for later retrievals, for Expiration Alerts &amp;amp; MIS Reports&lt;/font&gt;" vertex="1">
-          <mxGeometry height="52.79" width="230" x="216" y="703.0300000000002" as="geometry" />
-        </mxCell>
         <mxCell id="o6Nv1x-3SJl4VrMrXPaV-70" connectable="0" parent="jag08KQkEfNFIQB9siFQ-66" style="group;labelBackgroundColor=none;fontColor=#143642;" value="" vertex="1">
           <mxGeometry height="60.00000000000006" width="140" x="248" y="519.21" as="geometry" />
         </mxCell>
@@ -366,6 +360,15 @@
             <mxPoint x="785" y="596" as="sourcePoint" />
             <mxPoint x="580" y="438" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aMfFIQC9LXq8R7-fzArm-11" connectable="0" parent="jag08KQkEfNFIQB9siFQ-66" style="group" value="" vertex="1">
+          <mxGeometry height="88.81999999999994" width="250" x="282" y="696.21" as="geometry" />
+        </mxCell>
+        <mxCell id="jag08KQkEfNFIQB9siFQ-46" parent="aMfFIQC9LXq8R7-fzArm-11" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;verticalAlign=top;rounded=1;pointerEvents=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="" vertex="1">
+          <mxGeometry height="88.82" width="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jag08KQkEfNFIQB9siFQ-122" parent="aMfFIQC9LXq8R7-fzArm-11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Save in DB for later retrievals, for Expiration Alerts &amp;amp; MIS Reports&lt;/font&gt;" vertex="1">
+          <mxGeometry height="52.79" width="230" x="10" y="6.820000000000164" as="geometry" />
         </mxCell>
         <mxCell id="cQxjQNs7oXK-iss2nxVM-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Negotiations &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(70, 73, 93), rgb(170, 173, 190));&quot;&gt;Onsite / Offline&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="93" x="-34.5" y="513" as="geometry" />
