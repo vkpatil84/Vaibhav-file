@@ -403,7 +403,7 @@
           <mxGeometry height="39.79" width="144" x="4" y="3.7099999999999795" as="geometry" />
         </mxCell>
         <mxCell id="aMfFIQC9LXq8R7-fzArm-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" value="&lt;font color=&quot;#000000&quot;&gt;Signatory details verify &amp;amp; addition of more if required&lt;/font&gt;" vertex="1">
-          <mxGeometry height="31.32" width="150" x="521" y="752" as="geometry" />
+          <mxGeometry height="31.32" width="149" x="521" y="752" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
